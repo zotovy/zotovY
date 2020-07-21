@@ -8,6 +8,6 @@ I'm Middle Flutter & React JS developer based in Perm, Russia.
 
 ### Contact me!
 
-Inst: [@panda.developer](https://www.instagram.com/panda.developer/)
-Telegram: @zotovY
-Email: the1ime@yandex.ru
+Inst: [@panda.developer](https://www.instagram.com/panda.developer/)   
+Telegram: @zotovY   
+Email: the1ime@yandex.ru    
