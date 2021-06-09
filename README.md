@@ -10,4 +10,4 @@ I'm Middle Flutter & React JS developer based in Perm, Russia.
 
 Inst: [@_zotovY](https://www.instagram.com/_zotovY/)   
 Telegram: @zotovY   
-Email: the1ime@yandex.ru    
+Email: m@zotov.dev    
