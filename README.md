@@ -2,7 +2,7 @@
 
 I'm Middle Flutter & React JS developer based in Perm, Russia.
 
--   Currently free for job
+-   Working on delivery app now
 -   Always ready to help you building your project
 -   Do anything for a Cup of delicious coffee
 
