@@ -31,7 +31,7 @@
 </p>
 
 <h3>My open-source projects</h3>
-<a href="https://github.com/phototime/android">Phototime – android app</>
+<a href="https://github.com/phototime/android">Phototime – Android app built with jetpack compose to help photographers choose the best time to shoot</a>
   
 <h3>Contact me</h3>
 
