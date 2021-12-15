@@ -1,7 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1607077101/11614/pop_cat.gif?1607077101" width="30"/> Heey! Nice to meet you :)</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%233607F7&size=28&center=true&lines=React.js;Flutter;Next.js;Gatsby.js;.NET+Core;Nest.js"/>
+</p>
 
 <p>I'm Yaroslav Zotov, 16 years old. Living in Perm, Russia <img src="https://cdn-icons-png.flaticon.com/512/206/206604.png" width="13"/></p>
+
+
 <h3>Tools I use</h3>
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-42A5F5?style=flat-square&logo=flutter&logoColor=white" /> 
