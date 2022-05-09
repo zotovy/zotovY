@@ -34,11 +34,6 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-195C84?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-2F5B8C?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-
-<h3>My open-source projects</h3>
-<a href="https://github.com/phototime/android">Phototime – Android app built with jetpack compose to help photographers choose the best time to shoot</a>
-
-<a href="https://github.com/epos-next">Epos Next – School diary built with react.js & gastby </a>
   
 <h3>Contact me</h3>
 
