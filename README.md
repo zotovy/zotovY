@@ -37,6 +37,5 @@
   
 <h3>Contact me</h3>
 
-Instagram: [@_zotovY](https://www.instagram.com/_zotovY/)   
 Telegram: @zotovY   
 Email: m@zotov.dev    
