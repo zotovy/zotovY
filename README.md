@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%233607F7&size=28&center=true&lines=React.js;Flutter;Next.js;Gatsby.js;.NET+Core;Nest.js"/>
 </p>
 
-<p>I'm Yaroslav Zotov, 16 years old. Living in Perm, Russia <img src="https://cdn-icons-png.flaticon.com/512/206/206604.png" width="13"/></p>
+<p>I'm Yaroslav Zotov, 16 years old. Live in Perm, Russia <img src="https://cdn-icons-png.flaticon.com/512/206/206604.png" width="13"/></p>
 
 
 <h3>Tools I use</h3>
